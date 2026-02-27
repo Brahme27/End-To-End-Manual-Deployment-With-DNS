@@ -60,3 +60,6 @@ cd /usr/share/nginx/html && unzip /tmp/frontend.zip
 # Create /etc/nginx/default.d/expense.conf with reverse proxy to backend
 systemctl restart nginx
 ```
+
+## credits
+### 110% to Shiva Kumar Reddy(JoinDevOps)
